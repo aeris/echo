@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/labstack/echo"
+	"github.com/cozy/echo"
 	"github.com/stretchr/testify/assert"
 )
 

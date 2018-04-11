@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/labstack/echo"
+	"github.com/cozy/echo"
 	"github.com/labstack/gommon/random"
 )
 

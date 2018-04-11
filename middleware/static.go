@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/labstack/echo"
+	"github.com/cozy/echo"
 )
 
 type (
